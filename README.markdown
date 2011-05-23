@@ -33,7 +33,7 @@ These methods are only available within an instance of a class—like the corres
 Tested with
 -----------
 
-* Ruby 1.9.2-p180 — 20 May 2011.
+* Ruby 1.9.2-p180 — 20 May 2011
 
 Credits
 -------

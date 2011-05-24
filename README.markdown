@@ -30,15 +30,23 @@ These methods are only available within an instance of a class—like the corres
     instance_variable(name)
     set_instance_variable(name, new_value)
 
-Tested with
------------
+Colophon
+--------
+
+### Tested with
 
 * Ruby 1.9.2-p180 — 20 May 2011
 
-Credits
--------
+### Contributing
 
-© 2011 [Cody Robbins](http://codyrobbins.com/)
+* [Source](https://github.com/codyrobbins/easier-instance-variable-access)
+* [Bug reports](https://github.com/codyrobbins/easier-instance-variable-access/issues)
+
+To send patches, please fork on GitHub and submit a pull request.
+
+### Credits
+
+© 2011 [Cody Robbins](http://codyrobbins.com/). See LICENSE for details.
 
 * [Homepage](http://codyrobbins.com/software/easier-instance-variable-access)
 * [Follow me on Twitter](http://twitter.com/codyrobbins)

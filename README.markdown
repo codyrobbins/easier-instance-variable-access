@@ -33,6 +33,10 @@ These methods are only available within an instance of a class—like the corres
 Colophon
 --------
 
+### See also
+
+If you like this gem, you may also want to check out [To Class](http://codyrobbins.com/software/to-class).
+
 ### Tested with
 
 * Ruby 1.9.2-p180 — 20 May 2011
@@ -49,4 +53,5 @@ To send patches, please fork on GitHub and submit a pull request.
 © 2011 [Cody Robbins](http://codyrobbins.com/). See LICENSE for details.
 
 * [Homepage](http://codyrobbins.com/software/easier-instance-variable-access)
+* [My other gems](http://codyrobbins.com/software#gems)
 * [Follow me on Twitter](http://twitter.com/codyrobbins)
